@@ -1,0 +1,4 @@
+ClassName
+private int name1
+private String name2
+private Double name3
