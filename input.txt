@@ -1,0 +1,8 @@
+Test1
+--private int name1
+private int name2
+-private int name3
+
+		Test2
+	private int name21
+-private int name22
